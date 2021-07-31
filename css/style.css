@@ -1,0 +1,96 @@
+ li {
+   display: inline-block;
+    font-size: 20px;
+   margin-top: 30px;
+   font-family: "BPG Nino Mtavruli", sans-serif;
+  
+}
+header{
+   position: fixed;
+      left: 0;
+    top: 0;
+   background-color:black;
+   width: 100%;
+   z-index: 30;
+
+
+} 
+
+body{
+   position: fixed;
+}
+
+.n2{
+   color: Yellow;
+   transition-property: all;
+   margin-left: 80px;
+
+    
+}
+.n2:hover {
+   color: red;
+   background-color: White;
+   letter-spacing: 5px;
+   
+}
+.active{
+   color:Violet;
+}
+.n3{
+   color: Yellow;
+   transition-property: all;
+   margin-left: 80px;
+
+}
+.n3:hover {
+   color: red;
+   background-color: White;
+   letter-spacing: 5px;
+   
+}
+.n4{
+   color: yellow;
+   transition-property: all;
+   margin-left: 80px;
+}
+.n4:hover {
+   color: red;
+   background-color: White;
+   letter-spacing: 5px;
+   
+}
+
+.n5{
+   color: red;
+   transition-property: all;
+   margin-left: 100px;
+   
+}
+.m1{
+   color: white;
+   font-size: 50px;
+   margin-left: 35%;
+}
+
+.o1{
+   width: 1200px;
+   margin-left: 18%;
+}
+.o10{
+   font-size: 1200px;
+   margin-left: 0px;
+   background-color: black;
+}
+.o11{
+ margin-left:260px;
+ background-color: black;
+}
+.v1 {
+   margin-left: 1650px;
+  font-size: 20px;
+  margin-top: -23px;
+  color: blue;
+}
+.u1{
+   margin-bottom: 20px;
+}

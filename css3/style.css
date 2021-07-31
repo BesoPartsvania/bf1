@@ -1,0 +1,202 @@
+li {
+   display: inline-block;
+    font-size: 20px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+   
+
+  
+}
+header{
+   position: fixed;
+      left: 0;
+    top: 0;
+   background-color:black;
+   width: 100%;
+   z-index: 30;
+   height: 1200px;
+   
+
+
+} 
+
+
+
+.n2{
+   color: Yellow;
+   transition-property: all;
+   margin-left: 80px;
+
+    
+}
+.n2:hover {
+   color: red;
+   background-color: White;
+   letter-spacing: 5px;
+   
+}
+.active{
+   color:Violet;
+}
+.n3{
+   color: Yellow;
+   transition-property: all;
+   margin-left: 80px;
+
+}
+.n3:hover {
+   color: red;
+   background-color: White;
+   letter-spacing: 5px;
+   
+}
+.n4{
+   color: yellow;
+   transition-property: all;
+   margin-left: 80px;
+}
+.n4:hover {
+   color: red;
+   background-color: White;
+   letter-spacing: 5px;
+   
+}
+
+.n5{
+   color: red;
+   transition-property: all;
+   margin-left: 100px;
+   
+}
+.m1{
+   color: white;
+   font-size: 50px;
+   margin-left: 35%;
+}
+
+
+.v1 {
+   margin-left: 1650px;
+  font-size: 20px;
+  margin-top: -70px;
+ color: blue;
+}
+.u1{
+   margin-left: 40px;
+   color: red;
+}
+.u2{
+   margin-left: 40px;
+   color: red;
+}
+.u3{
+   margin-left: 40px;
+   color: red;
+}
+
+.q1{
+   margin-top: 50px;
+   background-color: blue;
+   font-size: 50px;
+
+}
+
+
+.j8{
+   margin-top: 300px;
+   margin-left: 40%;
+   font-size: 25px;
+   color: red;
+
+}
+.j9{
+   font-size: 70px;
+   margin-top: 320px;
+   margin-left: 38%;
+   color: yellow;
+}
+
+.j123{
+   font-size: 25px;
+   margin-top: 40px;
+   margin-left: 40%;
+   color: red;
+}
+.j1234{
+   font-size: 25px;
+   margin-top: 50px;
+   margin-left: 40%;
+   color: red;
+}
+.z9 {
+   font-size: 25px;
+   margin-top: 60px;
+   margin-left: 40%;
+   width: 300px;
+}
+
+
+
+
+
+
+
+
+
+.contact-style h3 {
+   
+   color:yellow;
+   margin-bottom: 20px;
+   margin-left: 10%;
+   font-size: 20px;
+}
+.contact-style ul{
+  
+   color: green;
+   margin-left: 25%;
+   margin-bottom: 25px;
+   
+}
+
+.contact-style {
+   margin: 145px  0 245px 0;
+   
+
+}
+
+
+.r1{
+   margin-left: 25%;
+}
+.m8 {
+  width: 400px;
+   height: 250px;
+   
+   position: absolute;
+   margin-top: 40px;
+ 
+  
+
+   
+} 
+ 
+.m3{
+  width: 400px;
+   height: 250px;
+   
+   position: absolute;
+   
+   left:740px;
+  margin-top: 40px;
+   
+}
+.m4{
+  width: 400px;
+   height: 250px;
+   
+   position: absolute;
+   
+   left:1400px;
+   margin-top: 40px;
+
+   
+}
